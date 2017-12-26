@@ -8,3 +8,4 @@ C:\Users\jyothi.thondepu\dev\exercism\fsharp\hello-world\bin\Release\netcoreapp2
 C:\Users\jyothi.thondepu\dev\exercism\fsharp\hello-world\bin\Release\netcoreapp2.0\HelloWorld.pdb
 C:\Users\jyothi.thondepu\dev\exercism\fsharp\hello-world\obj\Release\netcoreapp2.0\HelloWorld.dll
 C:\Users\jyothi.thondepu\dev\exercism\fsharp\hello-world\obj\Release\netcoreapp2.0\HelloWorld.pdb
+C:\Users\jyothi.thondepu\dev\exercism\fsharp\hello-world\obj\Release\netcoreapp2.0\HelloWorld.fsprojResolveAssemblyReference.cache
